@@ -8,7 +8,6 @@ Meta.URL=
 Meta.DisplayImageSource=none:
 Meta.EndpointURIFormat={ip}:{GenericModule.App.Ports.$ServerPort}
 Meta.ConfigManifest=bibleguesserconfig.json
-Meta.MetaConfigManifest=bibleguessermetaconfig.json
 Meta.ConfigRoot=bibleguesser.kvp
 Meta.MinAMPVersion=2.6.0.4
 Meta.SpecificDockerImage=cubecoders/ampbase:debian
