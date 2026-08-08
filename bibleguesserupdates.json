@@ -3,13 +3,13 @@
     "UpdateStageName": "Make install script executable",
     "UpdateSourcePlatform": "Linux",
     "UpdateSource": "SetExecutableFlag",
-    "UpdateSourceArgs": "bibleguesser/setup.sh"
+    "UpdateSourceArgs": "setup.sh"
   },
   {
     "UpdateStageName": "Install dependencies and build",
     "UpdateSourcePlatform": "Linux",
     "UpdateSource": "Executable",
-    "UpdateSourceData": "bibleguesser/setup.sh",
+    "UpdateSourceData": "setup.sh",
     "SkipOnFailure": false
   }
 ]
