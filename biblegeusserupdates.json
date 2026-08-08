@@ -1,0 +1,15 @@
+[
+  {
+    "UpdateStageName": "Make install script executable",
+    "UpdateSourcePlatform": "Linux",
+    "UpdateSource": "SetExecutableFlag",
+    "UpdateSourceArgs": "setup.sh"
+  },
+  {
+    "UpdateStageName": "Install dependencies and build",
+    "UpdateSourcePlatform": "Linux",
+    "UpdateSource": "Executable",
+    "UpdateSourceData": "setup.sh",
+    "SkipOnFailure": false
+  }
+]

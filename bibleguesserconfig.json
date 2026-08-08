@@ -1,0 +1,13 @@
+[
+  {
+    "DisplayName": "JWT Secret",
+    "Category": "bibleguesser:key",
+    "Subcategory": "Security:lock:1",
+    "Description": "Signs login sessions. Auto-generated on creation \u2014 only change it if you know what you're doing.",
+    "Keywords": "jwt,secret,auth",
+    "FieldName": "jwt-secret",
+    "InputType": "password",
+    "DefaultValue": "{{newguid()}}",
+    "EnumValues": {}
+  }
+]
