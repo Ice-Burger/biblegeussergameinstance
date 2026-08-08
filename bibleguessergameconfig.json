@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "JWT Secret",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "JWTSecret",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "JWTSecret",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
